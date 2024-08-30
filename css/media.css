@@ -1,0 +1,1008 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+    /*header*/
+    .logo {
+       width: 60%;
+}
+.but{
+        margin-right: -10px;
+}
+/*logob*/
+.logo1{
+    width: 50%;
+}
+.logo2{
+    padding-top: 0;
+    width: 28%;
+}
+.logo3 {
+        padding-top: 16px;
+    width: 40%;
+        }
+        .logo4 {
+            padding-bottom: 0;
+            width: 47%;
+        }
+        .logo5 {
+            padding-top: 0;
+           width: 38%;
+            }
+            .logo6 {
+                padding: 20px 0;
+                width: 35%;
+            }
+
+    /*slider*/
+    .sli_bg {
+        padding: 0;
+    }
+    .sli {
+        margin: 30px 0;
+        text-align: center;
+}
+  .s_h1 {
+     margin-right: 0; 
+    font-size: 28px;
+}
+.s_p1 {
+    margin: 20px 0 !important;
+    font-size: 17px !important;
+}
+.btn_search {
+    padding: 10px 15px !important;
+}
+.btn_cm {
+    font-size: 17px;
+}
+  .s_text {
+    padding-top: 0;
+}
+
+  /*arrival*/
+  .c_h1 {
+    font-size: 25px;
+    }
+    .s_h2 {
+         padding: 0 0 18px;
+         font-size: 20px;
+    } 
+    .s_column {
+        margin: 0;
+    }
+    .sa_img {
+             margin: 40px 30px;
+         }
+    .sa_text {
+         margin-left: 30px;
+     }
+    .sa_p1 {
+        font-size: 16px; 
+    }
+    .s_icon {
+    margin: 35px 15px 0 0;
+}
+    .s_icon a i {
+         font-size: 20px;
+     }
+
+ /*payday*/
+ .playday {
+    margin: 40px 0 80px;
+}
+ .pay{
+    padding-bottom: 50px;
+ }
+   
+     .pl_h1 {
+        padding-top: 30px;
+        font-size: 28px;
+    }
+    .pl_h2 {
+        font-size: 28px;
+        padding-top: 10px;
+        padding-bottom: 20px;
+
+    }
+    .pl_p1 {
+    padding-bottom: 20px;
+    margin-right: 0 !important; 
+    font-size: 17px;
+}
+.pl_dt {
+    font-size: 17px;
+}
+.pl_p2 {
+    padding: 20px 0;
+    font-size: 17px;
+}
+.p_img {
+    padding: 40px 0 0;
+}
+        
+    .p_text {
+        padding-top: 0;
+         text-align: center;
+       }
+ /*voucher*/
+    .voucher {
+    margin-bottom: 50px;
+}
+.vuo {
+    margin-top: 70px;
+}
+.v_text {
+    text-align: center;
+}
+.v_h1 {
+    font-size: 24px;
+}
+.v_h2 {
+    margin-top: 25px;
+    font-size: 24px;
+}
+.v_p1 {
+    margin: 25px 0 !important;
+    font-size: 16px;
+}
+   
+     .b_icon i {
+           padding: 10px 0px;
+           font-size: 30px;
+    
+          }
+       .b_p {
+            padding-left: 0;
+            font-size: 12px;
+        }
+        .b_pl {
+           padding-right: 40px !important;
+          }
+        .b_h2 {
+            font-size: 14px;
+        }
+    
+        
+        .b_text {
+          padding: 0 0 0 10px;
+    }
+    .button1{
+        margin-left: 75px;
+         margin-bottom: 15px;
+    }
+  .button2 {
+    margin-right: 60px !important;
+    }
+
+    .search {
+    margin-bottom: 15px;
+}
+    /*mobile*/
+    .mobile {
+          margin-top: 30px;
+      }
+    .fr_i {
+        width: 250px;
+    }
+    .mobl_logo {
+    margin: 9px 0 !important;
+}
+.t_pl a {
+    padding: 8px 25px;
+    margin-left: -23px;
+}
+.t_p a {
+    font-size: 10px;
+}
+.t_pn a {
+    margin-left: -20px;
+    padding: 8px 25px;
+}
+.red_img {
+    margin-left: 40px;
+}
+.r_text {
+    margin-left: 55px;
+}
+.imo{
+    margin-bottom: -25px;
+}
+.foot_icon {
+    margin: -40px 0 0 !important;
+}
+
+/*contact*/
+.contact {
+    padding: 70px 0 !important;
+}
+.co_h1 {
+    font-size: 25px;
+}
+.co_p1 {
+    padding: 25px 0 35px !important;
+    font-size: 18px;
+}
+.c_form {
+    margin: 0 25px;
+}
+.c_input {
+    padding: 20px 10px;
+    font-size: 14px;
+    width: 250px !important;
+}
+
+.c_button {
+    font-size: 13px;
+    right: 4px;
+}
+/*footer*/
+.f_h2 {
+    font-size: 25px;
+}
+.f_p {
+    padding: 20px 0 !important;
+    font-size: 18px;
+}
+.f_icon ul li a i {
+    font-size: 22px;
+    border: none;
+    padding: 9px 11px;
+    border-radius: 10px;
+}
+.footer_c {
+    text-align: center;
+}
+.fo_h2 {
+    padding-top: 35px;
+    padding-bottom: 16px;
+    font-size: 20px;
+}
+.fo_txt li a {
+    text-decoration: none;
+    font-size: 16px;
+}
+footer {
+    padding: 70px 0 100px;
+}
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px){
+	header {
+    margin: 10px 0 10px;
+}
+.logo {
+    width: 80%;
+}
+ .menu ul li a{
+              padding: 0 10px 10px !important;
+              font-size: 20px;
+       }
+       .btn_search {
+          padding: 11px 17px !important;
+          }
+
+          /*slider*/
+          .sli {
+               margin: 35px 0;
+           }
+           .s_text {
+           	padding-top: 0;
+              text-align: center;
+          }
+          .s_h1 {
+             margin-right:0;
+               font-size: 40px;
+           }
+           .s_p1 {
+               margin: 25px 0 !important;
+           }
+               .btn_search {
+                  padding: 11px 17px !important;
+              }
+
+    /*payday*/
+    .playday {
+         margin: 60px 0 70px;
+     }
+     .pay {
+         padding-bottom: 60px;
+       }
+    .p_img {
+          padding: 15px 0 0 85px;
+        }
+
+    .p_img img {
+         padding-top: 30px;
+         width: 70%;
+     }
+     .p_text {
+          text-align: center;
+            padding-top: 15px;
+       }
+       .pl_h1 {
+           font-size: 26px;
+       }
+       .pl_h2 {
+            padding-bottom: 18px;
+            font-size: 26px;
+        }
+        .pl_p1 {
+            margin: 0 80px;
+            padding-bottom: 19px;
+            font-size: 17px;
+        }
+        .pl_dt {
+            font-size: 17px;
+        }
+        .pl_p2 {
+            padding: 17px 0;
+             font-size: 17px;
+         }
+         .btn_search {
+              padding: 9px 15px !important;
+         }
+         .btn_cm{
+            font-size: 20px;
+         }
+
+
+         /*arrival*/  
+             .logo2 {
+              margin-bottom: 70px !important;
+          }
+          .c_h1 {
+             font-size: 28px;
+         }
+         .s_column {
+             margin: 0;
+            }
+         .sa_img {
+               margin: 70px;
+               }
+               .sa_text {
+                   margin: 0 70px;
+               }
+               .s_h2 {
+               	font-size: 22px;
+                padding: 0 0 23px;
+            }
+            .sa_p1{
+            	    font-size: 17px;
+            }
+            .s_icon {
+              margin: 48px 20px 0 0;
+           }
+
+           /*voucher*/
+           .voucher {
+               margin-bottom: 40px;
+            }
+    .b_icon i {
+         padding: 15px 0;
+         font-size: 35px;
+          }
+        
+        
+        .b_p {
+            padding-left: 0;
+            font-size: 14px;
+        }
+        .b_pl {
+           padding-right: 40px !important;
+          }
+        .b_h2 {
+            font-size: 17px;
+        }
+    
+        .b_icon i {
+            padding: 15px 0px;
+        }
+        .b_text {
+          padding: 0 0 0 10px;
+    }
+    .button1{
+        margin-left: 75px;
+}
+
+.button2 {
+        margin-right: 65px !important;
+    }
+    .v_h1 {
+        font-size: 25px;
+    }
+    .v_h2 {
+        margin-top: 25px;
+        font-size: 25px;
+    }
+    .v_p1 {
+         margin: 25px 30px !important;
+     }
+     .v_text {
+         text-align: center;
+}
+        /*mobile*/
+        .mobile {
+              margin: 50px;
+          }
+
+          .vuo {
+             margin-top: 60px;
+         }
+         .m_h2 {
+            font-size: 14px;
+        }
+        .t_pl a {
+            margin-left: -45px;
+        }
+        .t_p a {
+            font-size: 11px;
+        }
+        .t_pn a {
+            margin-left: -25px
+        }
+        .red_img{
+            width: 50%;
+            margin-left: 92px;
+
+        }
+        .imo2{
+            margin-top: -25px;
+        }
+        .r_text {
+           margin-left: 110px;
+         }
+         .foot_icon {
+              margin: -40px 0 0 !important;
+          }
+
+           /*contact*/
+           .contact {
+             padding: 80px 0 !important;
+         }
+         .co_h1 {
+            font-size: 25px;
+        }
+        .co_p1 {
+            padding: 30px 0 30px !important;
+           font-size: 20px;
+       }
+       .c_form {
+           margin: 0 100px;
+       }
+       .c_input{
+       	padding: 27px 20px;
+       	height: 48px !important;
+        width: 300px !important;
+       }
+       .c_button{
+       	right: 25px;
+       }
+       /*footer*/
+       footer {
+            padding: 70px 0 90px;
+        }
+       .f_h2 {
+          font-size: 25px;
+      }
+      .f_p {
+      	  margin: 0 90px;
+           padding: 23px 0 !important;
+          font-size: 19px;
+    }
+        .f_icon ul li a i {
+                   padding: 9px 10px;
+               }
+
+           .fo_h2 {
+               padding-bottom: 18px;
+               font-size: 20px;
+           }
+           .fo_txt li a {
+               font-size: 18px;
+           }
+           .footer_c {
+              text-align: center;
+               padding-top: 30px;
+        }
+
+    }
+   
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/*header*/
+	header {
+    margin: 10px 0 20px;
+}
+ .menu ul li a{
+              padding: 0 10px 10px !important;
+              font-size: 20px;
+       }
+       .btn_search {
+          padding: 11px 17px !important;
+          }
+
+          /*logo*/
+          .logo1 {
+              padding-top: 47px;
+             width: 100%;
+        }
+          .logo2 {
+               padding-top: 55px;
+              width: 50%;
+        }
+          .logo3 {
+              padding-top: 60px;
+              width: 70%;
+        }
+          .logo4 {
+           padding-top: 20px;
+            width: 100%;
+        }
+            .logo5 {
+               width: 80%;
+               padding-top: 57px;
+       }
+       .logo6 {
+         padding-top: 75px;
+         width: 80%;
+     }
+
+      /*slider*/
+
+          .s_text {
+
+               text-align: center;    
+           }
+           .s_img {
+              margin: 35px;
+          }
+          .s_img img {
+              margin-top: -65px;
+          }
+          .sli {
+              margin: 0 0 40px;
+           }
+           .s_h1 {
+              margin: 0 40px 0;
+              font-size: 42px;
+          }
+          .s_p1 {
+              margin: 30px 0 !important;
+          }
+          .s_text {
+                padding-top: 0;
+            }
+    /*arrival*/
+          .logo2 {
+              margin-bottom: 80px !important;
+          }
+          .c_h1 {
+             font-size: 28px;
+         }
+         .s_column {
+             margin: 0;
+            }
+         .sa_img {
+              margin: 90px;
+              }
+         .sa_text {
+              margin: 0 100px;
+          }
+         .s_h2 {
+             padding: 0 0 25px;
+         }
+         .s_icon {
+             margin: 42px 1px 0 0;
+           }
+/*play day*/
+
+  .p_img{
+        text-align: center;
+        padding: 15px 40px 0 0;
+    }
+    .p_img img{
+        width: 70%;
+    }
+    .pay {
+         text-align: center;
+     }
+     .p_text {
+         padding-top: 30px;
+         }
+     .pl_h1 {
+          font-size: 30px;
+      }
+      .pl_h2 {
+           padding-top: 15px;
+           padding-bottom: 20px;
+           font-size: 30px;
+       }
+       .pl_p1 {
+            margin: 0 140px;
+            padding-bottom: 20px;
+            font-size: 18px;
+        }
+        .pl_dt {
+            font-size: 19px;
+        }
+        .pl_p2 {
+          padding: 20px 0;
+          font-size: 18px;
+      }
+      .btn_cm {
+        font-size: 20px;
+    }
+
+
+/*voucher*/
+.voucher {
+    margin-bottom: 0;
+}
+.vuo {
+    margin-top: 80px;
+}
+ .b_icon i {
+           font-size: 35px;
+       }
+       
+          .b_p {
+            padding-left: 0;
+            font-size: 15px;
+        }
+        .b_pl {
+           padding-right: 40px !important;
+          }
+        .b_h2 {
+            font-size: 20px;
+        }
+    
+        .b_icon i {
+            padding: 19px 0px;
+        }
+        .b_text {
+        padding: 8px 0 0 10px;
+    }
+        
+.v_text {
+    text-align: center;
+}
+.v_h1 {
+    font-size: 28px;
+}
+.v_h2 {
+        margin-top: 30px;
+    font-size: 28px;
+}
+.v_p1 {
+    margin: 30px 0 !important;
+    font-size: 17px;
+}
+.button1{
+        margin-left: 150px;
+}
+
+.button2 {
+        margin-right: 120px !important;
+    }
+
+    /*mobile*/
+    .mobile {
+        margin-top: 60px !important;
+         margin: 110px;
+     }
+     .mobl_logo {
+           margin: 15px 23px !important;
+}
+     .m_h2 {
+          margin-left: 22px;
+      }
+     .sr_f {
+       margin-left: 20px;
+   }
+     .trend {
+          margin-left: 20px;
+}
+     .red_img {
+          width: 80%;
+       }
+       .fr_i {
+        width: 370px;
+    }
+
+
+      /*contact*/
+      .contact {
+            padding: 90px 0 !important;
+        }
+      .co_p1 {
+           padding: 30px 0 35px !important;
+             font-size: 20px;
+         }
+      .co_h1 {
+             margin: 0 40px;
+              font-size: 28px;
+          }
+          .c_form {
+              margin: 0 180px;
+          }
+          .c_button {
+          	right: 26px;
+          }
+          /*footer*/
+          footer {
+               padding: 90px 0 90px;
+           }
+          .f_h2 {
+            font-size: 28px;
+        }
+        .fo_h2 {
+            font-size: 21px;
+         }
+         .fo_txt li a {
+         	font-size: 19px;
+         }
+         .f_p {
+         	font-size: 19px;
+         }
+
+
+
+}
+
+
+
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	/*header*/
+	.menu ul li a {
+        margin-right: 20px;
+        font-size: 20px;
+      }
+      .btn_search {
+          padding: 11px 17px !important;
+        } 
+        /*slider*/
+        .s_h1 {
+           font-size: 42px;
+       }
+       .s_text {
+             padding-top: 0; 
+         }
+         .s_img {
+             padding-top: 110px;
+            }
+         .s_img img {
+            margin-top: -70px;
+        }
+        /*logob*/
+        .logo1 {
+          padding-top: 28px;
+          width: 82%;
+      }
+        .logo2 {
+          padding-top: 35px;
+         width: 44%;
+       }
+        .logo3 {
+            padding-top: 44px;
+            width: 60%;
+        }
+        .logo4{
+            width: 80%;
+        }
+        .logo5 {
+           width: 65%;
+           padding-top: 40px;
+         }
+      .logo6 {
+            padding-top: 58px;
+           width: 73%;
+      }
+        /*arrival*/
+        .c_h1 {
+             font-size: 28px;
+         }
+         .s_h2 {
+             padding: 28px 0 20px;
+            font-size: 23px;
+        }
+        .sa_p1 {
+             font-size: 17px;
+         }
+        .s_icon {
+           margin: 60px 15px 0 0;
+            }
+            /*contact*/
+            .contact {
+              padding: 120px 0 !important;
+          }
+            .c_button {
+               right: -8px;
+         }
+         .co_h1 {
+           font-size: 30px;
+       }
+       .co_p1 {
+            padding: 35px 0 40px !important;
+        }
+        .c_form {
+             margin: 0 40px;
+        }
+        .c_button {
+        	right: -15px;
+        }
+        /*footer*/
+        .f_h2 {
+           font-size: 30px;
+       }
+       /*voucher*/
+  
+     .b_icon i {
+           font-size: 35px;
+       }
+       .button2 {
+           margin-right: 30px !important; 
+          }
+          .b_p {
+            font-size: 15px;
+        }
+        .b_pl {
+           padding-right: 40px !important;
+          }
+        .b_h2 {
+            font-size: 20px;
+        }
+            .b_p {
+              padding-left: 0px;
+    }
+        .b_icon i {
+            padding: 19px 0px;
+        }
+        .b_text {
+        padding: 8px 0 0 10px;
+    }
+        .b_p {
+           padding-left: 15px;
+         }
+         .v_h1 {
+           font-size: 29px;
+       }
+       .v_h2 {
+          margin-top: 30px;
+         font-size: 29px;
+     }
+     .v_p1 {
+       margin: 35px 0 !important;
+   }
+   /*mobile*/
+   .fr_i {
+    width: 310px;
+    }
+    .t_pl a {
+    margin-left: -40px;
+    padding: 8px 25px !important;
+}
+  .t_pn a {
+    margin-left: -17px;
+    padding: 8px 25px !important;
+}
+.m_h2 {
+    font-size: 14px;
+}
+.match {
+    margin-bottom: 15px !important;
+}
+.t_p a {
+    padding: 8px;
+    font-size: 10px;
+}
+.r_h2 {
+    font-size: 12px;
+}
+.r_p {
+    margin: 8px 0 !important;
+    font-size: 11px;
+}
+.foot_icon {
+    margin: -26px 0 10px !important;
+}
+/*contact*/
+    .contact {
+        padding: 100px 0 !important;
+    }
+   /*payday*/ 
+.pl_h1 {
+    font-size: 33px;
+}
+.pl_h2 {
+    padding-top: 16px;
+    padding-bottom: 22px;
+    font-size: 33px;
+}
+.pl_p1 {
+    padding-bottom: 22px;
+    margin-right: 100px !important;
+    font-size: 19px;
+}
+.p_img {
+    padding: 15px 0 0;
+}
+.p_img img {
+    padding-top: 20px;
+}
+/*footer*/
+footer {
+    padding: 100px 0 110px;
+}
+}
+
+/* Extra Large devices (desktops, 992px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+	.menu ul li a {
+  
+        margin-right: 30px;
+    }
+/*logob*/
+.logo1 {
+    padding-top: 36px;
+}
+.logo3 {
+    padding-top: 50px;
+}
+.logo5 {
+   
+    padding-top: 45px;
+}
+.logo6 {
+    padding-top: 65px;
+}
+    /*voucher*/
+    .button2{
+        margin-right: 0;
+       }
+    .b_text {
+        padding: 10px 0;
+     }
+
+    .b_h2 {
+    
+        font-size: 22px;
+    }
+    .b_h2 {
+        padding-left: 10px;
+    }
+    .b_p {
+         padding-left: 10px;
+   }
+    .b_pl {
+        padding-right: 50px !important;
+}
+    .b_icon i {
+          padding: 17px 0px;
+         font-size: 40px;
+}
+
+/*mobile*/
+.fr_i {
+    width: 300px;
+}
+.t_pl a {
+    margin-left: -35px;
+}
+.t_pn a {
+    margin-left: -20px;
+}
+/*contact*/
+     .c_button {
+        right: -10px;
+       }
+       .f_p {
+          padding: 30px 20px !important;
+          } 
+}
+
+
+/* Extra extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) { ... }
