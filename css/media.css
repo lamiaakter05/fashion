@@ -4,6 +4,10 @@
     .logo {
        width: 60%;
 }
+.menu ul li a{
+              padding: 0 10px 10px !important;
+              font-size: 19px;
+       }
 .but{
         margin-right: -10px;
 }
@@ -92,6 +96,9 @@
  .pay{
     padding-bottom: 50px;
  }
+     .p_img {
+        padding: 40px 25px 0 0;
+    }
    
      .pl_h1 {
         padding-top: 30px;
